@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import StaleElementReferenceException
 import time
-
+#these are the list of website used to access 
 list1=["drive.google","amazon","yahoo","youtube","reddit","ebay","walmart","linkedin","microsoft","wikipedia","instagram","gmail","facebook","twitter","snapchat","google","w3schools","javatpoint","geeksforseeks"]
 r=sr.Recognizer()
 while(True):
